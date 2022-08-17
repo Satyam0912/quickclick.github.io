@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 1.5;
+    background-color: lightskyblue;
+}
+
+.btn {
+    height: 50px;
+    width: 100px;
+    margin: 25px;
+    border: none;
+    border-radius: 25px;
+    font-size: 1.5rem;
+    background-color: purple;
+    cursor: pointer;
+}
+
+#winner {
+    color: green;
+}
+
+#loser {
+    color: red;
+}
+
+.message {}
+
+.result {
+    font-weight: bold;
+}
+
+.gameArea {}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    background-color: aquamarine;
+}
